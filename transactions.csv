@@ -1,0 +1,9 @@
+account_id,username,transaction_amount,status,device_id
+101,john_smith,75.5,Completed,ABC-123
+102,sarah_b,120,Completed,DEF-456
+103,mike_r,32.99,Completed,GHI-789
+201,witty_ivy_bloom,1500,Cancelled,JKL-101
+202,witty_ivy_grove,2100,Cancelled,JKL-101
+203,flowy_ridge_palmer,1250,Cancelled,MNO-202
+204,cool_cat,25,Completed,PQR-303
+205,flowy_ridge_palmer2,3500,Cancelled,STU-404
